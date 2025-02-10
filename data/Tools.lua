@@ -1,0 +1,31 @@
+ToolName={
+  "RollingkyTools",
+  "RollingSkyTools",
+  "RollingSkyTools",
+  "RollingSkyTools",
+  "RollingSkyTools",
+  "RSCM封面制作器";
+}
+ToolText={
+  "level-editor关卡编辑",
+  "level-encryptor关卡解密",
+  "thumbnail-maker封面制作",
+  "theme-generator场景编辑器",
+  "tile-lookup地编查询",
+  "by RS-爱玩游戏的薯条 ";
+}
+ToolImage={
+  activity.getLuaDir().."/res/rs.png",
+  activity.getLuaDir().."/res/rs.png",
+  activity.getLuaDir().."/res/rs.png",
+  activity.getLuaDir().."/res/rs.png",
+  activity.getLuaDir().."/res/rs.png",
+  activity.getLuaDir().."/res/RSCM.png",
+}
+ToolURL={
+  "http://lingrain.online/RollingSkyTools/level-editor/index.html",
+  "http://lingrain.online/RollingSkyTools/level-encryptor-sqdl/index.html",
+  "http://lingrain.online/RollingSkyTools/thumbnail-maker/index.html",
+  "http://lingrain.online/RollingSkyTools/theme-generator/index.html",
+  "http://lingrain.online/RollingSkyTools/tile-lookup/index.html",
+}
